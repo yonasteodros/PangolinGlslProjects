@@ -1,0 +1,7 @@
+PangolinShaders/build/
+PangolinTriangles/build/
+VBODisplay/build/
+deps/
+.project
+.cproject
+.Rproj.user
